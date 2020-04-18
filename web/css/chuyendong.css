@@ -1,0 +1,32 @@
+body{
+    background: #f1f1f1;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.container{
+    background: rgb(103, 170, 89);
+    padding: 5em;
+    color: #fff;
+}
+
+h1{
+    font-size: 4em;
+}
+
+p{
+    font-size: 2em;
+    line-height: 1.6em;
+}
+
+a.button{
+    display: inline-block;
+    padding: .5em;
+    background: rgb(242, 255, 196);
+    border-radius: 20px;
+    color: rgb(103, 170, 89);
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+}
